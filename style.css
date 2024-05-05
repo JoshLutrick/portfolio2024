@@ -9,6 +9,13 @@ body {
     color: #F53163;
     
 }
+.dancingscript {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-size: 40px;
+    font-style: normal;
+}
 /*
 Color Scheme
 
