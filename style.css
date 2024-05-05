@@ -5,15 +5,20 @@
 body {
     background-color: #E4C2C1;
 }
+.header {
+    background-color: #FEF2F2;
+    padding: 2.5rem;
+}
 .header-title {
     color: #F53163;
+    text-align: left;
     
 }
 .dancingscript {
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
     font-weight: weight;
-    font-size: 40px;
+    font-size: 130px;
     font-style: normal;
 }
 /*
