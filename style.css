@@ -7,19 +7,20 @@ body {
 }
 .header {
     background-color: #FEF2F2;
-    padding: 2.5rem;
+    padding: 3rem;
+    position: sticky
 }
 .header-title {
     color: #F53163;
     text-align: left;
     
 }
-.dancingscript {
-    font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-size: 130px;
+.antonfont {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
     font-style: normal;
+    font-size: 102px;
+
 }
 /*
 Color Scheme
